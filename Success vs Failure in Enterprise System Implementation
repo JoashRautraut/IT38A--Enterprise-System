@@ -40,3 +40,9 @@ demand for rental accommodations and the need to digitize the search process. Un
 without 
 manual verification. The goal was to launch quickly and gain a competitive edge by offering low-cost services with minimal operational expenses.
 
+c.2. implementation process & challenges
+•	Rapid Development & Launch: The team focused on speed over quality, skipping key development phases such as pilot testing and extensive user feedback integration.
+•	Lack of Landlord Engagement: Unlike other systems that worked closely with landlords, BoardingFind relied on an automated listing approach, leading to fake, outdated, and duplicate property listings.
+•	Limited User Support & Security Features: The platform lacked customer service support, fraud detection, and user verification, making it easy for scammers to post fraudulent listings.
+•	Technical Issues & Poor UX: Frequent app crashes, slow loading times, and inaccurate location mapping made it difficult for users to trust or effectively use the system.
+•	Low Marketing & Adoption Strategy: The team assumed the platform would grow organically, failing to build strong partnerships with universities or local landlords to ensure quality listings.
