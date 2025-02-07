@@ -76,11 +76,11 @@ ______________________________ ┊ _____________________________________________
 
 Stakeholder Engagement         ┊  Actively involved landlords, students, and universities.                           ┊	Minimal engagement, leading to a lack of trust and adoption.
 ______________________________ ┊  __________________________________________________________________________________ ┊   ___________________________________________________________                  
-Listing Verification	 ┊     Strong verification process to prevent fraud.                                   ┊	No verification, leading to fake and duplicate listings.
+Listing Verification	         ┊     Strong verification process to prevent fraud.                                   ┊	No verification, leading to fake and duplicate listings.
 ______________________________ ┊ ___________________________________________________________________________________ ┊ ______________________________________________________________
-Technical Performance          ┊	Stable system with fast loading times and accurate search results.           ┊ 	Frequent crashes, slow loading, and inaccurate search results.
+Technical Performance          ┊	Stable system with fast loading times and accurate search results.                 ┊ 	Frequent crashes, slow loading, and inaccurate search results.
 ______________________________ ┊ ___________________________________________________________________________________ ┊ ___________________________________________________________________
-Marketing & Adoption Strategy  ┊	Strong partnerships with universities and awareness campaigns.               ┊ No targeted marketing or partnerships, leading to low user adoption.
+Marketing & Adoption Strategy  ┊	Strong partnerships with universities and awareness campaigns.                     ┊ No targeted marketing or partnerships, leading to low user adoption.
 ______________________________ ┊ ___________________________________________________________________________________ ┊ ____________________________________________________________________
 Revenue                        ┊ Model	Monetized through featured listings and ads while ensuring service quality.  ┊	Failed to generate revenue due to low adoption and trust issues.
 ______________________________ ┊ ___________________________________________________________________________________ ┊ _____________________________________________________________________
@@ -90,17 +90,17 @@ ________________________________________________________________________________
 d.2. Critical Success vs. Failure Factors
 
 D.2 Critical Success vs.       ┊  Success Factors (CityStay Locator)                                                 ┊     Failure Factors (BoardingFind App)
-Failure Factors	           ┊                                                                                     ┊
+Failure Factors	               ┊                                                                                     ┊
                                ┊                                                                                     ┊
 ______________________________ ┊ ___________________________________________________________________________________ ┊ _____________________________________________________________
 
 User-Centered Design           ┊  Intuitive interface with smooth navigation.                                        ┊	Poor UX with slow performance and inaccurate search results.
 ______________________________ ┊  __________________________________________________________________________________ ┊   ___________________________________________________________                  
-Trust & Security	           ┊     Verified listings and secure user authentication.                               ┊	Open system with no security, leading to fraud.
+Trust & Security	             ┊     Verified listings and secure user authentication.                                 ┊	Open system with no security, leading to fraud.
 ______________________________ ┊ ___________________________________________________________________________________ ┊ ______________________________________________________________
-Stakeholder Engagement         ┊	Regular communication with landlords and universities.                       ┊ 	Lack of partnerships, making it hard to attract users.
+Stakeholder Engagement         ┊	Regular communication with landlords and universities.                             ┊ 	Lack of partnerships, making it hard to attract users.
 ______________________________ ┊ ___________________________________________________________________________________ ┊ ___________________________________________________________________
-Marketing Strategy             ┊	Strong promotional efforts leading to widespread adoption.                   ┊ No clear marketing strategy, resulting in low visibility.
+Marketing Strategy             ┊	Strong promotional efforts leading to widespread adoption.                         ┊ No clear marketing strategy, resulting in low visibility.
 ______________________________ ┊ ___________________________________________________________________________________ ┊ ____________________________________________________________________
 Testing & Iteration            ┊ Pilot testing helped refine and improve the system.                                 ┊	Skipped testing, leading to unresolved technical and usability issues.
 ______________________________ ┊ ___________________________________________________________________________________ ┊ _____________________________________________________________________
